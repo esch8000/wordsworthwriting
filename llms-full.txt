@@ -1,0 +1,367 @@
+# Wordsworth Writing — full content
+
+> Independent reference site: technical writing, editing, Microsoft Word formatting, and government forms for A/E/C firms.
+
+
+
+---
+
+URL: https://wordsworthwriting.net/
+
+A reference site for working writers and editors
+  
+# Write clearly. Format cleanly. Ship documents that win work.
+  Wordsworth Writing is a free reference site about the unglamorous craft that keeps businesses running: technical writing, editing, document formatting in Microsoft Word, and the government forms — like the SF330 — that architecture, engineering, and environmental firms live and die by.
+
+  
+    
+      
+
+### The SF330, explained
+      What Standard Form 330 is, how Parts I and II fit together, and how to manage it sanely in Microsoft Word.
+      Read the SF330 guide →
+    
+    
+      
+
+### Templates in Word
+      How to build report, proposal, and resume templates that survive contact with real projects — styles, sections, and fields.
+      Read the templates guide →
+    
+    
+      
+
+### Technical editing
+      The levels of edit, how professional editors price work, and what to ask for when you hire one.
+      Read the editing guide →
+    
+    
+      
+
+### Writing tips
+      Short, practical notes on style, grammar, abbreviations, citations, and the habits that make documents readable.
+      Browse the tips →
+    
+  
+
+  
+
+## Why these topics?
+  For more than twenty years, this domain was home to an Alaska-based technical writing and editing practice whose most-visited pages were about exactly these subjects — the SF330 form in Word, templates for A/E/C firms, and technical editing. That business has moved on, but people still arrive here from old links, bookmarks, and citations looking for the same answers. This site keeps those answers available: the guides are newly written, plain-English treatments of the topics the old site was known for.
+
+  
+
+## Start with the fundamentals
+  Most business and technical documents fail in the same few ways: they bury the point, they mix formats until the reader loses trust, and nobody edits them before they go out the door. The fixes are boring and reliable:
+  
+    
+- Lead with the conclusion. Reports and proposals are not mystery novels. Put the recommendation, the price, or the finding first, then support it.
+    
+- Use styles, not formatting. In Word, every heading, caption, and body paragraph should carry a named style. Direct formatting is how documents rot. Our templates guide shows the pattern.
+    
+- Separate editing passes. Structure first, sentences second, typos last. A single "read it over" pass catches almost nothing. See the levels of edit.
+    
+- Respect the form. Government solicitations mean what they say. If the RFP says 10 pages, page 11 does not exist. The SF330 guide covers the strictest example.
+
+
+---
+
+URL: https://wordsworthwriting.net/sf330-form-in-microsoft-word/
+
+Government forms
+  
+# The SF330, explained
+  Standard Form 330 — "Architect-Engineer Qualifications" — is how architecture, engineering, and related firms present their qualifications to the U.S. federal government. If your firm pursues federal A/E work, the SF330 is your résumé, your portfolio, and your first impression, all in one rigid package.
+
+  
+
+## What the SF330 is
+  Under the Brooks Act, federal agencies select architect-engineer firms on qualifications rather than price. The SF330 is the standardized instrument for those qualifications. It replaced the old SF254 and SF255 forms in 2004, and it comes in two parts:
+  
+    
+- Part I — Contract-Specific Qualifications. Prepared fresh for each solicitation. It describes the team you are proposing for this contract: the key personnel, their resumes, example projects, and how the team members worked together before.
+    
+- Part II — General Qualifications. A standing profile of a firm (or a branch office): size, disciplines, experience categories, and revenue ranges. Agencies may keep Part II on file, and it is typically updated annually.
+  
+
+  
+
+## Part I, section by section
+  
+    
+| Section | What goes there | What trips people up | 
+    
+| A–C | Contract information, the point of contact, and all proposed team members (prime, subs, and each firm's role). | Section C must list every firm that appears anywhere later in the form — resumes and example projects included. | 
+    
+| D | Organizational chart of the proposed team. | The chart must agree with Sections C and E. Reviewers check. Names that appear in one place and not another read as carelessness. | 
+    
+| E | Resumes of key personnel — one page per person, in the form's fixed blocks (role, experience, education, registrations, relevant projects). | The five "relevant projects" per resume should echo the example projects in Section F wherever honestly possible; that overlap is scored in Section G. | 
+    
+| F | Example projects (usually up to ten) that best illustrate the team's qualifications for this contract. | Pick projects the proposed team actually worked on, not just the firm's flashiest work. Section G exposes the difference. | 
+    
+| G | A matrix mapping key personnel (Section E) to example projects (Section F). | A sparse matrix is the quiet killer of SF330 packages — it says your proposed team has never worked together. | 
+    
+| H | Additional information the solicitation asks for — often where agencies request narrative on management approach, quality control, or capacity. | Read the synopsis carefully; Section H requirements vary by solicitation and are where page limits usually bite. | 
+  
+
+  
+
+## Working with the SF330 in Microsoft Word
+  The government publishes the SF330 as a fillable PDF, but most marketing teams assemble it in Word because resumes and project sheets are living documents that get reused across pursuits. A few hard-won practices:
+  
+    
+- Build each section as its own template. One Word template for the Section E resume block, one for the Section F project sheet. Assemble per-pursuit copies from those masters rather than editing last year's submission in place. (Our templates guide covers the style-based approach.)
+    
+- Use tables with fixed row heights to mirror the form's blocks, and keep the block numbering (e.g., "12. Name," "13. Role in this contract") exactly as the form prints it. Evaluators navigate by those numbers.
+    
+- Keep a master library. Maintain every employee resume and every project description in SF330 format year-round, in one folder, each in the several lengths you actually use (full block, one paragraph, one line). Assembling a pursuit then becomes selection, not writing.
+    
+- Check the current form edition before every submission. The form is revised occasionally; agencies note the required edition in the solicitation. The authoritative source is GSA's forms library (search "SF330" at gsa.gov/forms), which always hosts the current PDF.
+    
+- PDF the final package from Word and verify fonts, page count, and file size against the solicitation's instructions. Submissions get rejected on mechanics more often than anyone admits.
+  
+
+  
+    Looking for a ready-made SF330 in Word? This site is a reference resource and doesn't sell templates. The current official fillable PDF is free from GSA's forms library, and several commercial vendors sell Word conversions — search "SF330 template Word." The section notes above apply to any of them.
+  
+
+  
+
+## Part II in brief
+  Part II is a one-page firm profile: employee counts by discipline, experience profile codes with revenue index numbers, and the branch offices it covers. Three things matter in practice: keep it current (agencies may treat a Part II on file as valid for a year), file one per branch office when offices pursue work separately, and make sure the discipline and experience codes you claim are the ones your Part I packages actually demonstrate.
+
+
+---
+
+URL: https://wordsworthwriting.net/templates-in-microsoft-word/
+
+Document formatting
+  
+# Templates in Microsoft Word that survive real projects
+  Every firm has a "template" — usually last year's report with the client's name half-replaced. A real template is different: it is a .dotx file where the formatting lives in named styles, the boilerplate is marked for replacement, and a new document starts clean every time. Here is how to build one.
+
+  
+
+## The one rule: styles, not formatting
+  Almost everything that goes wrong with Word documents — mystery indents, headings that won't join the table of contents, numbering that restarts at 1 in the middle of a report — comes from formatting text directly instead of through styles. In a proper template:
+  
+    
+- Every paragraph carries a named style: Heading 1–4, Body Text, Caption, Table Text, List Bullet, List Number.
+    
+- Fonts, spacing, and indents are defined once, in the style — never applied by hand.
+    
+- Multilevel numbering (1, 1.1, 1.1.1) is attached to the heading styles through a single list style, which is the only configuration that keeps numbering stable in long documents.
+    
+- The table of contents, list of figures, and list of tables are fields that build themselves from those styles.
+  
+  Do this and a 300-page report reformats in minutes. Skip it and every deliverable is an archaeology project.
+
+  
+
+## The template library an A/E/C firm actually needs
+  
+    
+| Template | Core contents | 
+    
+| Technical report | Cover, signature/seal page, executive summary, numbered headings, figure and table captions, appendix scheme (A, B, C with per-appendix page numbers), references section. | 
+    
+| Proposal | Cover letter, compliance-friendly heading structure that can mirror an RFP's outline, project sheets, resume blocks, cost tables. | 
+    
+| Resume (marketing) | The same person in several lengths: full page, half page, one paragraph, one line — plus an SF330 Section E version for federal work. | 
+    
+| Project description | One master sheet per project with the facts (client, dates, fee, role, outcomes) and prewritten versions at several lengths. | 
+    
+| Letter / memo | Letterhead as a first-page-only header, correct margins for window envelopes, memo variant with distribution block. | 
+    
+| Meeting minutes / field report | Fixed metadata table (project no., date, weather, personnel), numbered observation entries, photo layout pages. | 
+  
+
+  
+
+## Details that separate professional templates from amateur ones
+  
+    
+- Save as .dotx, not .docx. A template opened by double-click should create Document1, not open itself for accidental editing.
+    
+- Mark what must change. Use content controls or highlighted [BRACKETED PROMPTS] for every field the author must replace, then make the final QC pass a search for "[" — it finds every forgotten prompt in seconds.
+    
+- Different first page, different sections. Covers and dividers belong in their own Word sections so headers, footers, and page numbering behave. Roman numerals through the front matter, Arabic starting at page 1 of the body.
+    
+- Fields for repeated facts. Project number, client name, and document title should each be typed once (document properties or a bookmark) and referenced everywhere else with fields.
+    
+- Table styles. Define one or two table styles in the template so every table in the deliverable matches without anyone touching border menus.
+    
+- Test by destruction. Paste ugly text from email and old PDFs into the template, then fix it using only styles. If the fix requires manual formatting, the template isn't finished.
+  
+
+  
+
+## Government forms as templates
+  Federal and state forms (the SF330 family, grant applications, agency report shells) are a special case: the layout is prescribed, so the template's job is to reproduce the printed form faithfully — fixed-height table rows, the form's own block numbering, and locked cells where the form's captions live. See the SF330 guide for the standard example, and always verify you are reproducing the current edition of any government form before submitting.
+
+
+---
+
+URL: https://wordsworthwriting.net/technical-editing-document-formatting-services/
+
+The craft
+  
+# Technical editing and document formatting, demystified
+  "Can you look this over?" hides at least four different jobs, priced differently and done in a different order. Knowing the levels of edit — and asking for the right one — is the difference between a document that gets polished and one that gets rescued.
+
+  
+
+## The levels of edit
+  
+    
+| Level | What the editor does | When you need it | 
+    
+| Proofreading | Final pass on near-final pages: typos, punctuation, broken cross-references, bad line and page breaks. No rewriting. | After layout, before the document ships or prints. | 
+    
+| Copyediting | Sentence-level correctness and consistency: grammar, usage, terminology, capitalization, numbers, citations — applied against a style guide. | Every document that leaves the building. This is the default meaning of "editing." | 
+    
+| Substantive / line editing | Rewriting for clarity and flow: untangling sentences, cutting repetition, smoothing transitions, flagging logic gaps. Common for multi-author reports and ESL authors. | When the content is right but the reading is hard. | 
+    
+| Structural / developmental editing | Reorganizing the document itself: what goes where, what's missing, what should be an appendix, whether the executive summary answers the reader's question. | Early — before the writing is "done." Cheapest bought first, most expensive bought last. | 
+  
+  Formatting is the separate, parallel craft: making the document's typography, numbering, tables, and figures consistent and navigable — ideally by rebuilding it on a proper style-based template rather than patching by hand.
+
+  
+
+## How editors price work
+  Professional technical editors typically charge by the hour, and throughput depends on the level of edit: a copyedit of reasonably clean technical prose commonly runs a handful of pages per hour, while heavy line editing or ESL rewriting can run much slower. That is why an experienced editor will ask to see the document before quoting — the honest unit of estimation is the sample page, not the page count. Flat per-project rates are common for repeat work like newsletters and standing reports, where the effort is predictable.
+  Two practical implications when you're buying:
+  
+    
+- Send instructions with the document — the deadline, the style guide (or "match this earlier report"), what must not be touched, and the RFP or client instructions if compliance matters.
+    
+- Ask for tracked changes. In Word, an edit delivered with track changes and queries in comments is auditable; a silently "fixed" file is not. You should be able to see and veto every change.
+  
+
+  
+
+## What good editors ask you
+  
+    
+- Who is the reader, and what decision do they make with this document?
+    
+- Which style guide governs — company guide, client guide, or a standard one (Chicago, APA, GPO, your agency's)?
+    
+- What level of edit do you actually want — and is the schedule consistent with it?
+    
+- Is the formatting in scope, and is there a real template to format onto?
+    
+- Are there compliance constraints (page limits, font floors, required sections) that override style?
+  
+  If you're hiring and the editor asks none of these, keep looking.
+
+  
+
+## Editing AI-drafted text
+  A growing share of business documents now start life as machine-generated drafts. They arrive grammatical but generic: confident filler, invented specifics, and a voice that belongs to nobody. Editing them is closer to substantive editing than proofreading — verify every fact and citation, cut the throat-clearing, and rewrite until the document sounds like the organization that signs it. The levels-of-edit discipline above applies unchanged; only the failure modes are new.
+
+
+---
+
+URL: https://wordsworthwriting.net/writing-tips/
+
+Field notes
+  
+# Writing tips that survive contact with deadlines
+  This page continues a tradition of the old site at this domain: short, practical notes on the mechanics of technical and business writing. No theory — just the calls editors make all day.
+
+  
+
+## Acronyms and abbreviations
+  
+    
+- Spell out on first use, acronym in parentheses — then use the acronym consistently. If a term appears only twice, don't abbreviate it at all.
+    
+- Long documents get a list of abbreviations in the front matter; the first-use rule then applies per chapter, because nobody reads chapter 6 remembering chapter 2.
+    
+- An acronym the reader must decode is worse than the three words it saved. "The QAPP references the SAP and the HASP" is a sentence only its author can love.
+  
+
+  
+
+## Numbers
+  
+    
+- Most technical styles: words for zero through nine, numerals for 10 and up — but always numerals with units (3 mm, 5%), and never start a sentence with a numeral.
+    
+- Keep precision honest. Reporting 12.847% from a measurement good to whole percentage points isn't accuracy, it's costume.
+    
+- In tables, align decimal points and repeat the unit in the column head, not in every cell.
+  
+
+  
+
+## Hyphens and their relatives
+  
+    
+- Hyphenate compound modifiers before the noun (a high-pressure line) but not after (the line is high pressure), and never after an ‑ly adverb (a highly effective method).
+    
+- En dash for ranges (2019–2024, pages 10–14); em dash — like this — for the break in thought. Word's autocorrect gets ranges wrong constantly; check them.
+  
+
+  
+
+## Usage calls that come up every week
+  
+    
+- which / that: that restricts ("the pump that failed"), which adds an aside ("the pump, which was installed in 2019"). If you can drop the clause without changing the meaning, use which and a comma.
+    
+- affect / effect: to affect is to influence; an effect is a result. (The verb effect, as in "effect a change," is usually a sign the sentence wants rewriting.)
+    
+- comprise / compose: the whole comprises the parts; the parts compose the whole. "Comprised of" is always wrong and always survives review — search for it explicitly.
+    
+- ensure / insure / assure: you ensure an outcome, insure a car, and assure a person.
+    
+- i.e. / e.g.: i.e. means "that is"; e.g. means "for example." Both take a following comma and belong in parentheses, not in running prose.
+  
+
+  
+
+## Style guides: pick one and obey it
+  Half of all editing arguments are really the absence of a named style guide. Common choices: Chicago for general business prose, APA for research and social-science reporting, the GPO Style Manual for U.S. government documents, and a house style guide for everything the big guides leave open (product names, units, capitalization of your own titles). The winning move isn't the "right" guide — it's writing the choice down. (Building a house guide is a template problem too; see templates in Word.)
+
+  
+
+## The pass that fixes the most
+  Read the document once only for topic sentences: first sentence of every paragraph, in order. If that skeleton tells the story, the document works. If it doesn't, no amount of comma-polishing will save it — reorganize first. This is the cheapest structural edit there is, and you can do it to your own draft.
+
+
+---
+
+URL: https://wordsworthwriting.net/about/
+
+About
+  
+# About this site
+  Wordsworth Writing is an independent reference site about technical writing, editing, document formatting in Microsoft Word, and the government forms that professional services firms work with.
+
+  
+
+## The history of this domain
+  From the early 2000s through the mid-2020s, wordsworthwriting.net was the home of an Alaska-based technical writing and editing practice. Its best-known pages covered the SF330 federal form in Microsoft Word, templates for architecture/engineering/environmental (A/E/C) firms, and technical editing services, and it accumulated links and citations from directories, forums, and reference pages over two decades.
+  That business no longer operates at this address, and this site is not affiliated with it or its former owner. When the domain became available in 2026, the current owner registered it and stood up this reference site so that the many old links pointing here would land on genuinely useful, current material about the same subjects — rather than on a parking page or worse.
+
+  
+
+## What's here
+  
+    
+- The SF330, explained — the form's structure and how to manage it in Word.
+    
+- Templates in Microsoft Word — building report, proposal, and resume templates on styles.
+    
+- Technical editing and formatting — the levels of edit, pricing, and hiring.
+    
+- Writing tips — short notes on usage, numbers, abbreviations, and style guides.
+  
+  All content on this site is newly written. Nothing from the previous site has been copied, and no endorsement by its former operator is implied. Historical versions of the old site remain viewable in the Internet Archive's Wayback Machine.
+
+  
+
+## Corrections
+  Spotted an error? These pages get revised as the forms and tools they describe change. The site is maintained privately; factual corrections are welcome and can be sent to the postmaster address at this domain.
