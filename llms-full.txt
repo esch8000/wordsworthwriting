@@ -1,6 +1,6 @@
 # Wordsworth Writing — full content
 
-> Independent reference site: technical writing, editing, Microsoft Word formatting, and government forms for A/E/C firms.
+> Independent reference site: technical writing, editing, Microsoft Word formatting, government forms for A/E firms, and legal/financial document literacy.
 
 
 
@@ -41,6 +41,20 @@ A reference site for working writers and editors
 ### Writing tips
       Short, practical notes on style, grammar, abbreviations, citations, and the habits that make documents readable.
       Browse the tips →
+    
+    
+      
+
+### The law behind the SF330
+      The Brooks Act, FAR Subpart 36.6, and the protest decisions that show exactly how qualification packages get downgraded.
+      Read the legal background →
+    
+    
+      
+
+### Settlement documents
+      Structured settlement paperwork, document by document — the agreement, the qualified assignment, the annuity, and the transfer stack.
+      Read the documents guide →
     
   
 
@@ -87,21 +101,26 @@ Government forms
   
 
 ## Part I, section by section
+  Block numbers below are from the current edition of the form (Standard Form 330, Rev. 7/2021, OMB control number 9000-0157).
   
     
 | Section | What goes there | What trips people up | 
     
-| A–C | Contract information, the point of contact, and all proposed team members (prime, subs, and each firm's role). | Section C must list every firm that appears anywhere later in the form — resumes and example projects included. | 
+| A–B (blocks 1–8) | Contract information — title and location, public notice date, solicitation number — and the prime's point of contact. | Block 1 must match the announcement exactly as shown; the instructions say so verbatim, and evaluators sort stacks of these by it. | 
     
-| D | Organizational chart of the proposed team. | The chart must agree with Sections C and E. Reviewers check. Names that appear in one place and not another read as carelessness. | 
+| C (blocks 9–11) | Every firm on the proposed team — prime first, then each subconsultant with its role and, for firms with branch offices, the specific branch involved. | Section C must list every firm that appears anywhere later in the form — resumes and example projects included. Named subconsultants are a commitment: changing them later requires contracting-officer approval. | 
     
-| E | Resumes of key personnel — one page per person, in the form's fixed blocks (role, experience, education, registrations, relevant projects). | The five "relevant projects" per resume should echo the example projects in Section F wherever honestly possible; that overlap is scored in Section G. | 
+| D | Organizational chart of the proposed team, presented as an attachment after Section C. | The chart must agree with Sections C and E. Reviewers check. Names that appear in one place and not another read as carelessness. | 
     
-| F | Example projects (usually up to ten) that best illustrate the team's qualifications for this contract. | Pick projects the proposed team actually worked on, not just the firm's flashiest work. Section G exposes the difference. | 
+| E (blocks 12–19) | Resumes of key personnel, grouped by firm with the prime's people first: name, role, years of experience (block 14a total / 14b with current firm), firm, education, professional registrations, other qualifications, and up to five relevant projects each. | Block 14b — years with the current firm — gets compared across competitors, and the five relevant projects per resume should echo Section F wherever honestly possible; that overlap is scored in Section G. | 
     
-| G | A matrix mapping key personnel (Section E) to example projects (Section F). | A sparse matrix is the quiet killer of SF330 packages — it says your proposed team has never worked together. | 
+| F (blocks 20–24) | Example projects that best illustrate the team's qualifications — ten unless the agency specifies otherwise — each with year completed, project owner, a point of contact with phone number, and a relevance narrative. | Blocks 23a–c name a reference the agency may actually call. Pick projects the proposed team worked on, not just the firm's flashiest work — Section G exposes the difference. | 
     
-| H | Additional information the solicitation asks for — often where agencies request narrative on management approach, quality control, or capacity. | Read the synopsis carefully; Section H requirements vary by solicitation and are where page limits usually bite. | 
+| G (blocks 26–29) | The matrix mapping key personnel (in Section E order) to example projects (keyed 1–10 from Section F). | A sparse matrix is the quiet killer of SF330 packages — it says your proposed team has never worked together. | 
+    
+| H (block 30) | Additional information the solicitation asks for — often where agencies request narrative on management approach, quality control, or capacity. | Read the synopsis carefully; Section H requirements vary by solicitation and are where page limits usually bite. | 
+    
+| I (blocks 31–33) | Signature of an authorized representative, name/title, and date. | The signature attests the information is current and factual and that all named firms agreed to participate — inflated staff counts or stale data have cost top-ranked firms their selections. See the protest case law. | 
   
 
   
@@ -128,7 +147,96 @@ Government forms
   
 
 ## Part II in brief
-  Part II is a one-page firm profile: employee counts by discipline, experience profile codes with revenue index numbers, and the branch offices it covers. Three things matter in practice: keep it current (agencies may treat a Part II on file as valid for a year), file one per branch office when offices pursue work separately, and make sure the discipline and experience codes you claim are the ones your Part I packages actually demonstrate.
+  Part II is a one-page firm profile: employee counts by discipline, experience profile codes with revenue index numbers, and the branch offices it covers. Three things matter in practice: keep it current — FAR 36.603 has agencies reviewing their files at least annually and discarding material not updated within three years; file a separate Part II for each branch office that seeks work or has a key role on a proposed team (the form's own instructions require it, and each firm on a Part I team submits its own Part II); and make sure the discipline and experience codes you claim are the ones your Part I packages actually demonstrate.
+
+  
+
+## Why the form works this way
+  The SF330's structure isn't arbitrary — it implements the Brooks Act's qualifications-based selection, where price never enters the competition and the capability statement carries everything. The statute, the FAR Subpart 36.6 evaluation machinery, and two decades of GAO protest decisions about what gets firms downgraded (stale data, generic prose, phantom key personnel, careless capacity statements) are covered in the companion piece: The law behind the SF330.
+
+
+---
+
+URL: https://wordsworthwriting.net/sf330-requirements-brooks-act/
+
+Government forms · Legal background
+  
+# The law behind the SF330: why the form works the way it does
+  Every quirk of the SF330 — why price appears nowhere on it, why the signature attests that information is "current and factual," why the same experience shows up in three different sections — traces back to one statute and one FAR subpart. Understanding them is the difference between filling out the form and competing on it. This companion to our SF330 practical guide covers the legal framework and the mistakes that protest decisions punish most often.
+
+  
+
+## The Brooks Act: selection without price
+  The SF330 exists because of the Brooks Act of 1972, codified at 40 U.S.C. §§ 1101–1104. It commits the federal government to qualifications-based selection (QBS) for architect-engineer services: agencies publicly announce every A/E requirement, evaluate firms solely on demonstrated competence and qualifications, rank at least three of the most highly qualified, and only then negotiate a fair and reasonable price with the top-ranked firm. If negotiations fail, the agency formally terminates them and moves to the next firm on the list.
+  That structure has consequences an SF330 author feels directly:
+  
+    
+- Price competition never enters the selection. Your SF330 is not a proposal — courts describe it as a capability statement. There is no price volume to fall back on; the qualifications narrative carries the entire competition.
+    
+- "Firm" is a legal term. The Act defines an eligible firm as a legal entity permitted by law to practice architecture or engineering. In Accura Engineering & Consulting Services, Inc. v. United States (Court of Federal Claims, 2023), an award was overturned because the prime relied on a subcontractor's license — the court held the prime must itself hold the required licensure. A teaming arrangement doesn't create a licensed entity; a joint venture can.
+    
+- The QBS rule follows the work. Task orders for A/E services under IDIQ vehicles are also qualification-based selections under the same framework — agencies can't convert them into price shootouts.
+  
+
+  
+
+## FAR Subpart 36.6: the machinery
+  The Brooks Act is implemented by FAR Subpart 36.6, and the SF330 itself is prescribed by FAR 53.236-2 (current edition: Rev. 7/2021) and mandated by FAR 36.702. The pieces worth knowing:
+  
+    
+| Provision | What it requires | Why you care | 
+    
+| FAR 36.602-1 | The evaluation criteria: (1) professional qualifications; (2) specialized experience and technical competence; (3) capacity to perform in the required time; (4) past performance on cost control, quality, and schedule; (5) location/knowledge of the locality; (6) other criteria the synopsis adds. | This list, plus whatever the synopsis adds, is the whole scoring universe. Organize Section H (and really the whole Part I) around the announced criteria, in their announced order of importance. | 
+    
+| FAR 36.602-2/-3 | A qualified evaluation board reviews submissions, evaluates against the criteria, holds discussions with at least three of the most highly qualified firms, and writes a documented selection report. | Real professionals read the form, and the discussion stage exists by statute — write for a technical reader who may soon interview you. | 
+    
+| FAR 36.603 | Part II (General Qualifications) is filed with agency offices; agencies review files at least annually, encourage annual Part II updates, and discard material not updated within three years. | An annual Part II refresh isn't optional hygiene — a stale Part II can age out of the agency's files entirely. | 
+    
+| FAR 36.606 | Negotiations start with the most preferred firm; the extent of subcontracting is a key negotiation topic, and subcontracting is limited to firms agreed upon in negotiations. | The team you name in Sections C–D is a commitment, not decoration. Changing named subconsultants later requires contracting-officer approval. | 
+  
+
+  
+
+## What protest decisions teach SF330 authors
+  Disappointed firms can protest A/E selections to the Government Accountability Office (GAO) or the Court of Federal Claims. Both apply a deferential standard — they won't re-score your form — but the decided cases map the failure modes with unusual precision. Six lessons recur:
+
+  
+
+### 1. Every claim must be current and factual — the signature says so
+  Block 31's signature "attests that the information provided is current and factual." That language has teeth. GAO has repeatedly upheld agencies that terminated negotiations with the top-ranked firm after discovering inflated qualifications — a firm that counted part-time and could-be-hired individuals in its staff totals (Paul F. Pugh, 1980), and a firm claiming 21 employees that actually had one, the sole proprietor (Vertrans Design Associates, 1991). Winning the ranking with inaccurate data isn't winning anything.
+
+  
+
+### 2. Part I must be current as of this submission
+  GAO's Mounts Engineering decision (1985) drew the line that still governs: the general form (now Part II) is refreshed annually, but the contract-specific form (Part I) must be accurate as of the particular project. Copying last year's Part I forward — old staff counts, departed key personnel, stale workload — is a misrepresentation risk, not a shortcut.
+
+  
+
+### 3. Bare-bones submissions rate bare-bones scores
+  In Electronic Interiors (2011), GAO upheld low ratings where a firm repeated the same generic sentences for each key person and never said what work was actually done. The burden is on the firm to submit a well-written capability statement detailed enough for meaningful review. Generic prose isn't a style problem; it's scored as an experience deficit.
+
+  
+
+### 4. Watch what your capacity statements imply
+  In HydroGeoLogic (2008), a firm wrote that it would be at 50% capacity in six months and 80% in twelve — and GAO upheld the agency's weakness finding on the capacity criterion. Statements about workload and availability are read literally, at the moment of contract inception.
+
+  
+
+### 5. Key personnel must be real
+  In OLBN Architectural Service (2010), GAO upheld the downgrading of a firm whose three named architects had never worked for it — the firm planned to hire them after award. Section E resumes carry the evaluation; contingent people carry contingent credibility. And under Evergreen JV (2020), agencies must evaluate qualitatively — the years-with-current-firm block (14b), license depth, and the Section G matrix get compared across offerors, not just checked for presence.
+
+  
+
+### 6. If you protest, the clock is 10 days — and debriefings don't extend it
+  Because a Brooks Act selection is not a "competitive proposal" procurement, GAO's debriefing exception does not apply: a protest must be filed within 10 days of when the firm knew or should have known its basis (McKissack-URS Partners, 2012; Battelle Memorial Institute, 2022). Firms that wait for a post-award debriefing routinely lose on timeliness without any review of the merits.
+
+  
+
+## The quiet asymmetry worth remembering
+  Agencies get deference on judgment but not on process: protests succeed when an evaluation applied criteria the synopsis never stated (Risk Analysis and Mitigation Partners, 2014), mechanically counted experience instances instead of assessing them (Evergreen JV), skipped the required discussions (Mounts), or left no documentation of its reasoning (Wadell Engineering, 1980). For the firm, the practical inverse holds: write to the stated criteria, in their stated weighting, with specific verifiable facts — because that is the exact record a review would examine.
+
+  
+    Scope note: this page summarizes public statutes, regulations, and protest decisions for background; it is not legal advice, and agency supplements (like the DFARS provisions that apply to Department of Defense work) add requirements beyond the baseline described here. Verify against the current text at acquisition.gov and your solicitation's own instructions — the synopsis always controls. For the form's mechanics — sections, blocks, and managing it in Word — see the practical SF330 guide.
 
 
 ---
@@ -329,6 +437,76 @@ Field notes
 
 ## The pass that fixes the most
   Read the document once only for topic sentences: first sentence of every paragraph, in order. If that skeleton tells the story, the document works. If it doesn't, no amount of comma-polishing will save it — reorganize first. This is the cheapest structural edit there is, and you can do it to your own draft.
+
+
+---
+
+URL: https://wordsworthwriting.net/structured-settlement-documents/
+
+Legal & financial documents
+  
+# Structured settlement documents, explained
+  A structured settlement isn't one document — it's a small stack of them, each doing a different legal job, drafted so precisely that changing a single verb can shift who owes the money for the next forty years. This guide walks through the stack the way an editor would: what each document is for, what its key language does, and which details deserve a second read. It's part of this site's series on reading and understanding professional documents.
+
+  
+
+## First, the shape of the deal
+  In a structured settlement, an injury claim resolves not as a single lump sum but as a schedule of future periodic payments — monthly checks, annual amounts, lump sums at milestone dates, or a mix. Federal tax law is what makes the arrangement attractive: damages for personal physical injuries are excluded from income under Internal Revenue Code § 104(a)(2) whether paid as a lump sum or as periodic payments, and since the Periodic Payment Settlement Tax Act of 1982, the periodic-payment version enjoys statutory certainty. The catch that shapes every document below: the recipient must not have actual or constructive receipt of the underlying fund. The paperwork exists largely to keep that true.
+
+  
+
+## The founding documents
+  
+    
+| Document | What it does | What to read twice | 
+    
+| Settlement agreement and release | Resolves the underlying claim and defines the payment schedule — amounts, dates, and to whom. Everything downstream refers back to it. | The payment obligation's exact wording. Whether the obligor promises to make the payments or merely to purchase an annuity that makes them determines who bears the risk if the annuity issuer ever fails — a distinction the Federal Circuit treated as decisive in Langkamp v. United States (2019). | 
+    
+| Qualified assignment | Transfers the payment obligation from the defendant (or its insurer) to an assignment company under IRC § 130, so the defendant can close its books and the claimant isn't exposed to the defendant's future solvency. | The § 130 conditions are visible in the text: payments must be fixed and determinable in amount and timing, and the recipient must have no power to accelerate, defer, increase, or decrease them. That no-acceleration clause is why the schedule truly is fixed. | 
+    
+| Annuity contract | The funding asset: an annuity purchased from a state-licensed life insurer that generates the scheduled payments. Under § 130 it must be bought within a 60-days-before-to-60-days-after window around the assignment. | Who owns it. The payee receives payments but typically does not own the contract — the assignment company (or, in some government settlements, the government itself) does. Ownership controls who can change anything later. | 
+    
+| Payee designation / benefits letter | The issuer's confirmation of the schedule and the named payee, plus beneficiary designations for payments that survive the payee. | Beneficiary designations — the one piece of this stack a recipient can usually update, and the one most often left stale after marriages, divorces, and births. | 
+  
+
+  
+
+## If payments are ever sold: the transfer stack
+  A second, entirely different set of documents appears if the payment recipient later sells some or all future payments to a factoring company for cash today. Congress and every state legislature decided this transaction is risky enough to wrap in mandatory paperwork: IRC § 5891 imposes a 40% excise tax on the buyer unless the transfer is approved in advance by a court order under a state structured settlement protection act (SSPA). That makes the documents below effectively universal:
+  
+    
+- The disclosure statement. Delivered to the seller before signing, typically listing the payments being sold, their aggregate value, the discounted present value (computed against a published federal rate), the gross purchase price, itemized fees, and the effective discount rate. This is the document that states, in one place, what the deal actually costs. State law dictates its timing and contents.
+    
+- The transfer agreement. The contract of sale — which specific payments, for how much, with what representations. Read for what happens if the court declines approval, and for any provisions that reach payments beyond the ones being sold.
+    
+- The transfer petition. The filing that asks a court to approve the transfer. SSPAs require the court to find, among other things, that the transfer is in the best interest of the payee, taking account of the welfare and support of dependents.
+    
+- The qualified court order. The approval order that satisfies § 5891 and shields the transaction from the excise tax. No order, no lawful transfer — and courts do say no: in one 2026 Pennsylvania federal decision, approval was denied where the pricing worked out to an effective annual interest rate near 24%, which the court found could not be in the payee's best interest.
+  
+
+  
+
+## The federal-settlement special case
+  When the paying party is the United States — most commonly a Federal Tort Claims Act settlement — the same document stack acquires extra layers, and one structural difference dominates: the government often owns the annuity and retains the right to designate the payee. Courts have held that a state court cannot order the government to redirect those payments — the Sixth Circuit's TransAmerica decision (2007) treated that as a matter of federal sovereign immunity — which means the ordinary transfer stack above simply doesn't work against a government-owned annuity. Other federal particulars visible in the documents: settlements above a threshold require Justice Department approval; FTCA attorney fees are capped by statute (25% of a judgment or settlement, 20% of an administrative award); and the brokers who arrange annuities for federal settlements appear on a Justice Department list maintained under 28 C.F.R. § 50.24, renewed annually by sworn declaration.
+
+  
+
+## An editor's checklist for reading the stack
+  
+    
+- Trace one payment through every document. Pick a single scheduled payment and confirm its amount, date, and payee are identical in the settlement agreement, the qualified assignment, the annuity contract, and the benefits letter. Discrepancies among these documents are exactly the kind of defect that surfaces decades later.
+    
+- Find the verb that creates the obligation. "Shall pay" and "shall purchase an annuity" are different promises with different survivors.
+    
+- Identify the owner of every contract. Payee ≠ owner, and only owners can act.
+    
+- In any transfer document, find the effective discount rate — not the fees, not the "purchase price," the rate. It is the single number that makes offers comparable.
+    
+- Check the definitions section against usage. These documents chain-reference each other ("the Periodic Payments," "the Qualified Assignment"); a defined term used loosely in one document weakens the whole chain. The same discipline applies to any templated legal document set.
+  
+
+  
+    Scope note: this is a document-literacy guide, not legal or financial advice. Structured settlement transfers are governed by the protection act of the payee's state plus IRC § 5891, and the terms above vary by state and by contract — anyone considering a transfer should have the actual documents reviewed by their own counsel or advisor.
 
 
 ---

@@ -5,9 +5,11 @@
 ## Guides
 
 - [The SF330, explained](https://wordsworthwriting.net/sf330-form-in-microsoft-word/): Standard Form 330 (Architect-Engineer Qualifications) — how Parts I and II are organized, section-by-section notes, and how to manage the form in Microsoft Word.
+- [The law behind the SF330](https://wordsworthwriting.net/sf330-requirements-brooks-act/): the Brooks Act's qualifications-based selection, the FAR Subpart 36.6 evaluation process, and the GAO/COFC protest decisions on common SF330 compliance mistakes.
 - [Templates in Microsoft Word](https://wordsworthwriting.net/templates-in-microsoft-word/): building report, proposal, and resume templates on named styles; the template library an A/E/C firm needs.
 - [Technical editing and document formatting](https://wordsworthwriting.net/technical-editing-document-formatting-services/): the levels of edit (proofreading, copyediting, line editing, structural editing), how editors price work, and what to ask before hiring one.
 - [Writing tips](https://wordsworthwriting.net/writing-tips/): short usage notes — acronyms, numbers, hyphenation, common usage calls, style guides.
+- [Structured settlement documents, explained](https://wordsworthwriting.net/structured-settlement-documents/): the settlement agreement, qualified assignment, annuity contract, and the disclosure/petition/court-order stack that governs transfers of payment rights.
 
 ## Optional
 
