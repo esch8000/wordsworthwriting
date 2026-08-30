@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Building Report, Proposal &amp; Resume Templates in Microsoft Word</title>
+<meta name="description" content="How to build Microsoft Word templates that survive real projects: styles, section architecture, fields, and the template library every A/E/C firm should keep.">
+<link rel="canonical" href="https://wordsworthwriting.net/templates-in-microsoft-word/">
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+<header class="site">
+  <div class="inner">
+    <a class="brand" href="/">Wordsworth<span> Writing</span></a>
+    <p class="tagline">Guides to technical writing, editing, and document formatting</p>
+    <nav class="main">
+      <a href="/">Home</a>
+      <a href="/sf330-form-in-microsoft-word/">SF330 Form</a>
+      <a href="/templates-in-microsoft-word/">Word Templates</a>
+      <a href="/technical-editing-document-formatting-services/">Technical Editing</a>
+      <a href="/writing-tips/">Writing Tips</a>
+      <a href="/about/">About</a>
+    </nav>
+  </div>
+</header>
+<main>
+  <p class="kicker">Document formatting</p>
+  <h1>Templates in Microsoft Word that survive real projects</h1>
+  <p class="lede">Every firm has a "template" — usually last year's report with the client's name half-replaced. A real template is different: it is a <em>.dotx</em> file where the formatting lives in named styles, the boilerplate is marked for replacement, and a new document starts clean every time. Here is how to build one.</p>
+
+  <h2>The one rule: styles, not formatting</h2>
+  <p>Almost everything that goes wrong with Word documents — mystery indents, headings that won't join the table of contents, numbering that restarts at 1 in the middle of a report — comes from formatting text directly instead of through styles. In a proper template:</p>
+  <ul>
+    <li>Every paragraph carries a named style: <em>Heading 1–4</em>, <em>Body Text</em>, <em>Caption</em>, <em>Table Text</em>, <em>List Bullet</em>, <em>List Number</em>.</li>
+    <li>Fonts, spacing, and indents are defined <em>once</em>, in the style — never applied by hand.</li>
+    <li>Multilevel numbering (1, 1.1, 1.1.1) is attached to the heading styles through a single list style, which is the only configuration that keeps numbering stable in long documents.</li>
+    <li>The table of contents, list of figures, and list of tables are fields that build themselves from those styles.</li>
+  </ul>
+  <p>Do this and a 300-page report reformats in minutes. Skip it and every deliverable is an archaeology project.</p>
+
+  <h2>The template library an A/E/C firm actually needs</h2>
+  <table>
+    <tr><th>Template</th><th>Core contents</th></tr>
+    <tr><td>Technical report</td><td>Cover, signature/seal page, executive summary, numbered headings, figure and table captions, appendix scheme (A, B, C with per-appendix page numbers), references section.</td></tr>
+    <tr><td>Proposal</td><td>Cover letter, compliance-friendly heading structure that can mirror an RFP's outline, project sheets, resume blocks, cost tables.</td></tr>
+    <tr><td>Resume (marketing)</td><td>The same person in several lengths: full page, half page, one paragraph, one line — plus an <a href="/sf330-form-in-microsoft-word/">SF330 Section E</a> version for federal work.</td></tr>
+    <tr><td>Project description</td><td>One master sheet per project with the facts (client, dates, fee, role, outcomes) and prewritten versions at several lengths.</td></tr>
+    <tr><td>Letter / memo</td><td>Letterhead as a first-page-only header, correct margins for window envelopes, memo variant with distribution block.</td></tr>
+    <tr><td>Meeting minutes / field report</td><td>Fixed metadata table (project no., date, weather, personnel), numbered observation entries, photo layout pages.</td></tr>
+  </table>
+
+  <h2>Details that separate professional templates from amateur ones</h2>
+  <ol>
+    <li><strong>Save as .dotx, not .docx.</strong> A template opened by double-click should create <em>Document1</em>, not open itself for accidental editing.</li>
+    <li><strong>Mark what must change.</strong> Use content controls or highlighted <code>[BRACKETED PROMPTS]</code> for every field the author must replace, then make the final QC pass a search for "[" — it finds every forgotten prompt in seconds.</li>
+    <li><strong>Different first page, different sections.</strong> Covers and dividers belong in their own Word <em>sections</em> so headers, footers, and page numbering behave. Roman numerals through the front matter, Arabic starting at page 1 of the body.</li>
+    <li><strong>Fields for repeated facts.</strong> Project number, client name, and document title should each be typed once (document properties or a bookmark) and referenced everywhere else with fields.</li>
+    <li><strong>Table styles.</strong> Define one or two table styles in the template so every table in the deliverable matches without anyone touching border menus.</li>
+    <li><strong>Test by destruction.</strong> Paste ugly text from email and old PDFs into the template, then fix it using only <em>styles</em>. If the fix requires manual formatting, the template isn't finished.</li>
+  </ol>
+
+  <h2>Government forms as templates</h2>
+  <p>Federal and state forms (the SF330 family, grant applications, agency report shells) are a special case: the layout is prescribed, so the template's job is to reproduce the printed form faithfully — fixed-height table rows, the form's own block numbering, and locked cells where the form's captions live. See the <a href="/sf330-form-in-microsoft-word/">SF330 guide</a> for the standard example, and always verify you are reproducing the current edition of any government form before submitting.</p>
+</main>
+<footer class="site">
+  <div class="inner">
+    <p><strong>Wordsworth Writing</strong> · wordsworthwriting.net — an independent reference site about technical writing, editing, and document formatting. It is not affiliated with the editing business previously operated at this domain. <a href="/about/">About this site</a>.</p>
+  </div>
+</footer>
+</body>
+</html>
